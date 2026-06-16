@@ -130,6 +130,7 @@ button,
 time,
 span {
   display: block;
+  border-radius: 10px;
 }
 
 button {
@@ -2250,6 +2251,7 @@ textarea.form-input::-webkit-resizer {
 
   .avatar-box img {
     width: 150px;
+	border-radius: 12px;
   }
 
   .info-content .name {
